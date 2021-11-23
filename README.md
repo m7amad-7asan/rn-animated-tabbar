@@ -97,4 +97,4 @@ const TabsNavigator = createBottomTabNavigator();
 
 ## Demo
 
-![Demo not available](https://github.com/m7amad-7asan/rn-animated-tabbar/blob/main/appPreview.gif?raw=true)
+![Demo not available](https://raw.githubusercontent.com/m7amad-7asan/rn-animated-tabbar/main/appPreview.git)
