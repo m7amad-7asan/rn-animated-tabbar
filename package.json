@@ -1,6 +1,6 @@
 {
   "name": "rn-animated-tabbar",
-  "version": "1.0.6",
+  "version": "1.0.8",
   "description": "React native animated tabbar",
   "homepage": "https://github.com/m7amad-7asan/rn-animated-tabbar#readme",
   "main": "lib/index.js",
@@ -12,7 +12,6 @@
     "ios",
     "lib",
     "rn-animated-tabbar.podspec",
-    "__docs",
     "!android/build",
     "!.DS_Store",
     "!.gradle",
@@ -33,6 +32,13 @@
     "prepare": "yarn compile",
     "test": "jest"
   },
+  "keywords": [
+    "react native",
+    "react navigation",
+    "bottom tabs",
+    "animated",
+    "tabbar"
+  ],
   "devDependencies": {
     "@babel/core": "^7.16.0",
     "@babel/runtime": "^7.16.3",
