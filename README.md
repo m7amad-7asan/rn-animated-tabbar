@@ -48,7 +48,7 @@ const BottomTabsData = [
 &nbsp;
 &nbsp;
 
-|     Property      |             Required              |                Description                    |
+|Property           |Required                           |Description                                    |
 |-------------------|-----------------------------------|-----------------------------------------------|
 |id                 |True                               |unique id for the tab                          |
 |title              |True                               |tab name which will displayed                  |
