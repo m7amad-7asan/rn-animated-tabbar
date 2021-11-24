@@ -1,6 +1,6 @@
 {
   "name": "rn-animated-tabbar",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "React native animated tabbar",
   "homepage": "https://github.com/m7amad-7asan/rn-animated-tabbar#readme",
   "main": "lib/index.js",
