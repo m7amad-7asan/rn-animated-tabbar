@@ -1,5 +1,9 @@
 # React native animated tabbar
 
+## Demo
+
+[Show Live **Demo**](https://streamable.com/6kfoti)
+
 ## Usage
 
 > yarn add d3-shape react-native-svg
@@ -10,7 +14,7 @@
 
 &nbsp;
 
-## Define tabs data
+### Define tabs data
 
 ```typescriptreact
 const BottomTabsData = [
@@ -72,7 +76,7 @@ import {BottomTabs} from 'rn-animated-tabbar';
 
 &nbsp;
 
-## or using react navigation
+### or using react navigation
 
 ```typescriptreact
 import {createBottomTabNavigator} from '@react-navigation/bottom-tabs';
@@ -94,7 +98,3 @@ const TabsNavigator = createBottomTabNavigator();
 ```
 
 &nbsp;
-
-## Demo
-
-![Demo not available](https://streamable.com/6kfoti)
